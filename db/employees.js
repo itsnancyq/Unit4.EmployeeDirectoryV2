@@ -11,4 +11,13 @@ const employees = [
   { id: 10, name: "Gwen Grollmann" },
 ];
 
+export function getEmployees(){
+  return employees
+}
+
+export function getRandomEmp(){
+  
+  return 
+}
+
 export default employees;
